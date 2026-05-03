@@ -1,56 +1,81 @@
-# Hi there 👋, I'm Athmeeya M Kashyap
+# Athmeeya M Kashyap
 
-**Undergraduate Researcher, CCNSB IIIT Hyderabad | CS & Computational Natural Sciences**
+**Undergraduate Researcher, Complex Networks · IIIT Hyderabad**
 
-I am a second-year dual degree student at **IIIT Hyderabad**, pursuing a **B.Tech in Computer Science** and an **MS in Computational Natural Sciences**. I am passionate about backend development (high-performance APIs), high-stakes competitive programming, and the mechanics of superbikes.
+B.Tech Computer Science + MS Computational Natural Sciences · INMO Qualifier 2022
 
-My foundation is in competitive mathematics and algorithmic problem solving, and I actively apply mathematical reasoning to real-world computational problems.
-
-## 🔬 Research Focus
-At the **CCNSB lab**, I work as an Undergraduate Researcher under **Prof. Chittaranjan Hens**:
-- Investigating how signed edge weights in complex networks affect structural balance and irreversible dynamical phase transitions.
-- Connecting percolation theory to large-scale connectivity collapse.
-
-## 💻 Experience
-**Software Engineer Intern | SVP India (Social Venture Partners India)**
-*(Jan 2026 – April 2026 | Hyderabad, India)*
-- Architected a normalized relational schema with 12 tables handling partner lifecycle, event tracking, and engagement analytics.
-- Designed and implemented 60+ REST API endpoints using **React.js, TypeScript, Express.js, Prisma ORM, and PostgreSQL**.
-- Secured systems using JWT/bcrypt authentication.
-
-## 🎓 Education
-- **International Institute of Information Technology (IIIT), Hyderabad** (2024 – 2029)
-  *Dual Degree: B.Tech in CS + MS by Research in Computational Natural Sciences.*
-- **CFAL** (2022 – 2024)
-  *Higher Secondary Education.*
-
-## 🛠️ Skills
-- **Low-Level & Quant Core**: C, C++, Stochastic Processes, Probability Theory, Graph Theory & Network Analysis, Algorithm Design & Analysis, Data Structures.
-- **Scientific & Research Stack**: Python, NumPy, SciPy, NetworkX, Matplotlib, Pandas, Scikit-learn, Monte Carlo Simulation, Statistical Analysis.
-- **Systems, Databases & Tooling**: SQL, PostgreSQL, SQLite, MongoDB, Linux, Bash/Shell, Git, GitHub, Docker, AWS, CI/CD.
-- **Web Systems**: JavaScript, TypeScript, React.js, Node.js, Express.js, Prisma ORM, Tailwind CSS, Socket.IO.
-
-## 🏆 Achievements
-- **INMO Qualifier (2022)**: Ranked among the top 300 nationally in the Indian National Mathematical Olympiad. Selected for the INMO Training Camp at ICTS-TIFR, Bengaluru (1 of 22 from Karnataka).
-- **Competitive Programmer**: Solved 300+ problems on [Codeforces](https://codeforces.com/profile/athmeeyakashyap) across DP, graph algorithms, and combinatorics.
-- **NSEA Top 1%**: Ranked in the top 1% statewide in the National Standard Examination in Astronomy (IAPT).
-- **SGFI National Swimmer**: Represented Karnataka in Swimming at the School Games Federation of India Nationals.
-
-## 🚀 Projects
-- 📊 [**Erdos-Renyi Random Graph Evaluation**](https://github.com/Athmeeya2006/erdos-graph)
-  Research-focused simulation of structural transitions in large-scale random graphs (N > 10,000). Derived power laws at percolation thresholds using Monte Carlo sampling. *(Python, SciPy, NumPy, Manim)*
-- 🚰 [**FlowMax: Max-Flow Benchmarking Suite**](https://github.com/Athmeeya2006/Max-Flow)
-  Implemented and benchmarked 5 max-flow algorithms (Edmonds-Karp, Dinic's, etc.) across 21 datasets. Validated complexity theories with case studies in bandwidth optimization and image segmentation. *(Python, NetworkX, Matplotlib, Complexity Analysis)*
-- 🏋️ [**Git-fit (You Matter Wellness)**](https://github.com/Athmeeya2006/Git-fit)
-  9th place at the Star Union Dai-ichi Life National Tech Hackathon. Built a wellness gamification platform with microservice architecture and real-time leaderboards. *(React.js, Express.js, Python, Flask, Framer Motion)*
-- 🎉 [**Felicity Fest Management System**](https://github.com/Athmeeya2006/Felicity-Fest-Management-System)
-  Scalable 3-role MERN portal for IIIT Hyderabad’s annual fest, handling 5,000+ attendees. Features include real-time chat via Socket.IO and QR attendance. *(React 18, Node.js, MongoDB, Socket.IO, JWT)*
-
-## 🤝 Let's Connect!
-- 📧 **Email**: [athmeeyakashyap@gmail.com](mailto:athmeeyakashyap@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/athmeeya-kashyap](https://linkedin.com/in/athmeeya-kashyap)
-- 🏆 **Codeforces**: [athmeeyakashyap](https://codeforces.com/profile/athmeeyakashyap)
-- 🌐 **Portfolio**: [athmeeya2006.github.io/webpage](https://athmeeya2006.github.io/webpage/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-athmeeya2006.github.io-00ff88?style=flat-square&logo=github)](https://athmeeya2006.github.io/webpage/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-athmeeya--kashyap-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/athmeeya-kashyap)
+[![Codeforces](https://img.shields.io/badge/Codeforces-athmeeyakashyap-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/athmeeyakashyap)
+[![Email](https://img.shields.io/badge/Email-athmeeyakashyap@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:athmeeyakashyap@gmail.com)
 
 ---
-*“Applying mathematical reasoning to real computational problems.”*
+
+## Research
+
+At the **CCNSB Lab, IIIT Hyderabad**, under **Prof. Chittaranjan Hens**:
+
+- Investigating how signed edge weights in complex networks affect structural balance and the onset of irreversible dynamical phase transitions
+- Connecting percolation threshold behavior to large-scale connectivity collapse in mathematical network models
+- Upcoming research manuscript on dynamical phase transitions in random graph systems
+
+---
+
+## Currently Building
+
+> **Financial Contagion Network Model** · `IN PROGRESS · June 2026`
+>
+> Modeling systemic risk propagation in financial networks using percolation theory. Extending the Erdos-Renyi framework to simulate cascade failure across interconnected nodes and identify the critical threshold separating contained shocks from systemic collapse.
+>
+> `Python` `NetworkX` `Percolation Theory` `Statistical Physics`
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Erdos-Renyi Random Graph Evaluation**](https://github.com/Athmeeya2006/erdos-graph) | Confirmed the s^(-3/2) cluster-size power law at the percolation threshold via 1,000+ Monte Carlo trials on graphs up to 10,000 vertices. Benchmarked O(n^2) vs Batagelj-Brandes linear-time generation. | Python, NetworkX, SciPy |
+| [**FlowMax: Max-Flow Benchmarking Suite**](https://github.com/Athmeeya2006/Max-Flow) | Implemented and benchmarked 5 max-flow algorithms across 21 datasets spanning 7 topology categories. Empirically confirmed O(V^2 E) vs O(VE^2) complexity gaps. Applied to airline scheduling, image segmentation, optical fibre allocation. | Python, NetworkX, Matplotlib |
+| [**You Matter Wellness**](https://github.com/Athmeeya2006/wellness-platform) | Ranked **9th of 100+ teams** at the Star Union Dai-ichi National Tech Hackathon. Decoupled microservice platform with streak tracking, challenge systems, and ML-powered wellness forecasts. | React 18, Express.js, Python/Flask |
+| [**Felicity Fest Management System**](https://github.com/Athmeeya2006/Felicity-Fest-Management-System) | 3-role MERN event portal for IIIT Hyderabad's annual fest. 70+ REST endpoints, Socket.IO real-time chat, browser-camera QR attendance, JWT auth with role-based route guards. | React 18, Node.js, MongoDB, Socket.IO |
+| [**Partner Engagement Dashboard**](https://github.com/Athmeeya2006/svp-dashboard) | Normalized relational schema across 12 tables, 60+ REST API endpoints, JWT/bcrypt auth with role-based access control. Commissioned by SVP India. | React.js, TypeScript, Express.js, PostgreSQL |
+
+---
+
+## Achievements
+
+- **INMOTC 2022** · Selected for INMO Training Camp at ICTS-TIFR, Bengaluru · 1 of 22 from Karnataka
+- **INMO Qualifier 2022** · Indian National Mathematical Olympiad · Top 300 nationally
+- **NSEA 2023** · Top 1% statewide · National Standard Examination in Astronomy (IAPT)
+- **SGFI Nationals** · Represented Karnataka in Swimming at the School Games Federation of India Nationals
+- **300+ problems** solved on Codeforces across dynamic programming, graph algorithms, number theory, and combinatorics
+
+---
+
+## Skills
+
+```
+Low-Level & Quant     C · C++ · Stochastic Processes · Probability Theory
+                      Graph Theory · Algorithm Design · Data Structures
+
+Scientific & Research Python · NumPy · SciPy · NetworkX · Matplotlib
+                      Pandas · Scikit-learn · Monte Carlo Simulation
+
+Systems & Tooling     PostgreSQL · MongoDB · SQLite · Linux · Bash
+                      Git · Docker · AWS · CI/CD
+
+Web (Secondary)       JavaScript · TypeScript · React.js · Node.js
+                      Express.js · Prisma ORM · Tailwind CSS · Socket.IO
+```
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athmeeya2006&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athmeeya2006&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+
+---
+
+*Building at the intersection of mathematical rigor and computational systems.*
