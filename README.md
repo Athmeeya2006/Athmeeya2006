@@ -17,11 +17,77 @@
 
 <br/>
 
-Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. Math olympiad background, national-level swimmer, table tennis player.
+> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. Math olympiad background, national-level swimmer, table tennis player.
 
-- **INMO Training Camp (2022)** - Selected as 1 of 22 students from Karnataka for Mathematical Training at ICTS-TIFR Bengaluru.
-- **INMO Qualifier (2022)** - Ranked in the top 300 nationally, clearing regional stages of the Indian National Mathematical Olympiad.
-- **National Athlete** - Represented Karnataka at the School Games Federation of India (SGFI) Swimming Nationals.
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
+
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR) computing Nash-approximate strategies across Kuhn and Leduc Poker. Exploitability below 0.001 chips/game within 10k iterations. Maps CFR bluff frequency to Glosten-Milgrom adverse selection spread via the informed-trader/bluffer isomorphism.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
+
+C++17 limit order book with price-time priority, exposed to Python via pybind11. Benchmarks 6 no-regret algorithms across 10,000-round simulations in 4 market regimes. Empirical regret stays below the O(sqrt(TK ln K)) bound across all runs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-00599C?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
+
+Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K-c to within 2%.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Erdos-Renyi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
+
+Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 simulation runs, extended to financial contagion via DebtRank, Watts cascades, and bond percolation. S&P 500 correlation network yields clustering Z-score above 30 sigma against 1,000 ER null graphs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square)
+![Manim](https://img.shields.io/badge/Manim-343434?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+
+</table>
+
+## Achievements
+
+### **1 of 22** from the State of Karnataka · INMO Training Camp (INMOTC 2022)
+*Selected for advanced mathematical training at ICTS-TIFR Bengaluru.*
+
+### **Top 300** Nationally· INMO Qualifier (2022)
+*Cleared the regional stages to qualify for the national-level Indian National Mathematical Olympiad .*
+
+### **Top 1%** Statewide · Astronomy Olympiad (2023)
+*National Standard Examination in Astronomy(NSEA), conducted by the Indian Association of Physics Teachers (IAPT).*
+
+### **National Athlete** · Swimming Nationals (SGFI)
+*Represented Karnataka at the School Games Federation of India Nationals.*
+
+## Stack
 
 <div align="center">
 
