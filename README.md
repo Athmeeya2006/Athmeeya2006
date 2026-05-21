@@ -56,7 +56,7 @@ Nash-approximate strategies from Kuhn Poker (12 info sets) through Leduc Poker (
 - **Financial Bridge:** Maps CFR bluff frequency to Glosten-Milgrom (1985) adverse selection 
   spread estimates via the informed-trader/bluffer isomorphism
 - **Architecture:** Real-time CLI bot with Dirichlet posterior opponent model and SPRT leak 
-  detector (5% FP/FN), 119 tests, CI on Python 3.11/3.12
+  detector (5% FP/FN), 119 tests
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -95,7 +95,7 @@ Erdős-Rényi and Barabási-Albert topologies.
 - **Validation:** Finite-size scaling (N = 50 to N = 800) recovers theoretical K_c = √(8/π) 
   ≈ 1.5957 to within 2% empirically
 - **Diagnostics:** Lyapunov exponent pipeline (Benettin method) for chaos onset detection. 95% 
-  test coverage, CI on Python 3.10/3.11/3.12
+  test coverage
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -202,6 +202,6 @@ Web          React.js · Node.js · Express.js · Socket.IO · Prisma ORM · Tai
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*Always open to discussing complex systems research, quantitative finance, or algorithmic problems. Feel free to reach out.*
+*If everything seems under control, you're not going fast enough.*
 
 </div>
