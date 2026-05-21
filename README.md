@@ -72,30 +72,7 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### [Felicity Fest Management System](https://github.com/Athmeeya2006/Felicity-Fest-Management-System)
-
-3-role MERN event portal for IIIT Hyderabad's annual cultural fest. 70+ REST endpoints, Socket.IO real-time chat, browser-camera QR attendance, and JWT auth with role-based route guards.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [You Matter Wellness](https://github.com/Athmeeya2006/You-Matter-Wellness)
-
-**9th of 100+ teams** · Star Union Dai-ichi National Tech Hackathon. Microservice wellness platform with streak tracking, real-time leaderboards, and ML-powered activity forecasts. Deployed on Vercel and Railway.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -110,8 +87,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 | **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
 | **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
 | **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
-| **State-Level Table Tennis** | Competed in state-level open table tennis tournaments |
-| **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
 
 </div>
 
