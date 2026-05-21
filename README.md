@@ -23,43 +23,57 @@
 
 ## Projects
 
-```
-> [DEPLOY] GTO_Poker_Bot
-> ENGINE:  Python | NumPy | SciPy
-> STATUS:  Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR).
->          Nash-approximate strategies across Kuhn and Leduc Poker.
-> METRICS: Exploitability < 0.001 chips/game within 10k iterations.
-> LOG:     Mapping CFR bluff frequency to Glosten-Milgrom adverse selection
->          spread via the informed-trader/bluffer isomorphism.
-> [LINK]:  github.com/Athmeeya2006/GTO_Poker_Bot
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-> [DEPLOY] No-Regret_Market_Making_Engine
-> ENGINE:  C++17 | Python | pybind11
-> STATUS:  Limit order book with price-time priority, exposed to Python via pybind11.
->          Benchmarks 6 no-regret algorithms across 10,000-round simulations in 4 market regimes.
-> METRICS: Empirical regret stays below the O(sqrt(TK ln K)) bound across all runs.
-> [LINK]:  github.com/Athmeeya2006/No-Regret-Market-Maker
-```
+### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
 
-```
-> [DEPLOY] Explosive_Sync_Flash_Crash
-> ENGINE:  C++17 | Python | CMake
-> STATUS:  Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies.
->          Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers.
-> METRICS: Finite-size scaling across N = 50 to 800 recovers theoretical K_c to within 2%.
-> [LINK]:  github.com/Athmeeya2006/Explosive-Sync-Flash-Crash
-```
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR) computing Nash-approximate strategies across Kuhn and Leduc Poker. Exploitability below 0.001 chips/game within 10k iterations. Maps CFR bluff frequency to Glosten-Milgrom adverse selection spread via the informed-trader/bluffer isomorphism.
 
-```
-> [DEPLOY] Erdos-Renyi_Contagion
-> ENGINE:  Python | NetworkX | Manim
-> STATUS:  Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 runs.
->          Extended to financial contagion via DebtRank, Watts cascades, and bond percolation.
-> METRICS: S&P 500 correlation network clustering Z-score > 30 sigma against 1,000 ER null graphs.
-> [LINK]:  github.com/Athmeeya2006/Erdos-Renyi-Contagion
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
+
+C++17 limit order book with price-time priority, exposed to Python via pybind11. Benchmarks 6 no-regret algorithms across 10,000-round simulations in 4 market regimes. Empirical regret stays below the O(sqrt(TK ln K)) bound across all runs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-00ff88?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
+
+Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K_c to within 2%.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Erdos-Renyi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
+
+Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 simulation runs, extended to financial contagion via DebtRank, Watts cascades, and bond percolation. S&P 500 correlation network yields clustering Z-score above 30 sigma against 1,000 ER null graphs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
+![Manim](https://img.shields.io/badge/Manim-343434?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
