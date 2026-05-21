@@ -81,12 +81,24 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 <div align="center">
 
-| Achievement | Details |
-|:---|:---|
-| **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
-| **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
-| **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
-| **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
+<kbd>&nbsp;🏅 INMOTC 2022&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;INMO Training Camp&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;<b>1 of 22 selected from Karnataka</b>&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;ICTS-TIFR Bengaluru&nbsp;</kbd>
+<br><br>
+<kbd>&nbsp;🎯 INMO Qualifier 2022&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;Indian National Mathematical Olympiad&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;<b>Top 300 nationally</b>&nbsp;</kbd>
+<br><br>
+<kbd>&nbsp;🔭 NSEA 2023&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;National Standard Examination in Astronomy&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;<b>Top 1% statewide</b>&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;IAPT&nbsp;</kbd>
+<br><br>
+<kbd>&nbsp;🏊 SGFI Nationals&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;Karnataka Swimming&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;<b>Breaststroke 200m</b>&nbsp;</kbd> &nbsp;
+<kbd>&nbsp;School Games Federation of India&nbsp;</kbd>
 
 </div>
 
