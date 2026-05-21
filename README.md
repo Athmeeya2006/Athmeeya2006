@@ -19,8 +19,6 @@
 
 > Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks. Math olympiad background, national-level swimmer, table tennis player.
 
----
-
 ## Projects
 
 <table>
@@ -75,8 +73,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 </table>
 
----
-
 ## Achievements
 
 <div align="center">
@@ -90,8 +86,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 </div>
 
----
-
 ## Stack
 
 <div align="center">
@@ -99,8 +93,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,react,tailwind,sklearn,linux,git,docker,cmake&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
-
----
 
 <div align="center">
 
