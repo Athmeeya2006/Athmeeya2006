@@ -19,13 +19,9 @@
 
 Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. Math olympiad background, national-level swimmer, table tennis player.
 
-## Achievements
-
 - **INMO Training Camp (2022)** - Selected as 1 of 22 students from Karnataka for Mathematical Training at ICTS-TIFR Bengaluru.
 - **INMO Qualifier (2022)** - Ranked in the top 300 nationally, clearing regional stages of the Indian National Mathematical Olympiad.
 - **National Athlete** - Represented Karnataka at the School Games Federation of India (SGFI) Swimming Nationals.
-
-## Stack
 
 <div align="center">
 
