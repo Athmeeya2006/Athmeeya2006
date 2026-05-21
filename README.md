@@ -81,8 +81,8 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 ### **Top 300** National Rank · INMO Qualifier (2022)
 *Cleared the regional stages to qualify for the national-level Indian National Mathematical Olympiad .*
 
-### **Top 1%** Statewide · Astronomy Olympiad (NSEA 2023)
-*National Standard Examination in Astronomy, conducted by the Indian Association of Physics Teachers (IAPT).*
+### **Top 1%** Statewide · Astronomy Olympiad (2023)
+*National Standard Examination in Astronomy(NSEA), conducted by the Indian Association of Physics Teachers (IAPT).*
 
 ### **State Athlete** · Swimming Nationals (SGFI)
 *Represented Karnataka at the School Games Federation of India Nationals.*
