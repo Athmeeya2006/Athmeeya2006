@@ -75,14 +75,17 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 ## Achievements
 
-* 🏆 **INMO Training Camp (INMOTC 2022)** — **1 of 22 Selected from Karnataka**
-  * *ICTS-TIFR Bengaluru* · Part of the elite state cohort selected for advanced mathematical training under the national Olympiad program.
-* 🥈 **INMO Qualifier (2022)** — **Top 300 Nationally**
-  * *Indian National Mathematical Olympiad* · Placed in the top tier of competitive mathematical minds in the country.
-* 🔭 **Astronomy Olympiad (NSEA 2023)** — **Top 1% Statewide**
-  * *National Standard Examination in Astronomy* · Conducted by IAPT, demonstrating outstanding astrophysical foundation.
-* 🏊 **Swimming Nationals (SGFI)** — **Represented Karnataka State**
-  * *School Games Federation of India Nationals* · Competed in the 200m Breaststroke event at the highest national school athletics tier.
+### 🏆 **1 of 22** State Selection · INMO Training Camp (INMOTC 2022)
+*Selected for advanced mathematical training under top academicians at ICTS-TIFR Bengaluru.*
+
+### 🥈 **Top 300** National Rank · INMO Qualifier (2022)
+*Placed in the elite national cohort of the Indian National Mathematical Olympiad.*
+
+### 🔭 **Top 1%** Statewide · Astronomy Olympiad (NSEA 2023)
+*Recognized by the Indian Association of Physics Teachers (IAPT) for astrophysics excellence.*
+
+### 🏊 **State Athlete** · Swimming Nationals (SGFI)
+*Represented Karnataka in the 200m Breaststroke at the School Games Federation of India Nationals.*
 
 ## Stack
 
