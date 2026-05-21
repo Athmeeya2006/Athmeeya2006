@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=INMO+Qualifier+2022+%7C+Top+300+Nationally;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%26+Percolation+Theory;B.Tech+CS+%2B+MS+Computational+Natural+Sciences)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=IOQM+%E2%86%92+RMO+%E2%86%92+INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
 
 <br/>
 
@@ -17,41 +17,26 @@
 
 <br/>
 
+> Math olympiad qualifier turned network scientist. I study how complex systems collapse — phase transitions in random graphs, synchronization breakdown in coupled oscillator networks, and cascade failure in financial systems — and build rigorous computational tools to model them precisely. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad.
+
 ---
 
 ## 🔬 Research
 
-> Undergraduate Researcher at **CCNSB Lab, IIIT Hyderabad** under **Prof. Chittaranjan Hens**
+**Undergraduate Researcher · CCNSB Lab, IIIT Hyderabad · Prof. Chittaranjan Hens**
 
-- Investigating how **signed edge weights** in complex networks drive irreversible **dynamical phase transitions**
-- Connecting **percolation threshold** behavior to large-scale connectivity collapse in mathematical network models
-- Upcoming research manuscript on phase transitions in random graph systems
+Investigating the mathematical structure of irreversible transitions in complex networks. Current work spans three interconnected directions:
 
----
+**Signed Network Dynamics**
+How signed edge weights (excitatory and inhibitory connections) in heterogeneous networks drive systems toward irreversible dynamical phase transitions. Connecting signed Laplacian spectral properties to large-scale connectivity collapse and the emergence of bistable regimes.
 
-## 🚧 Currently Building
+**Explosive Synchronization and Flash Crashes**
+Modeling first-order synchronization transitions in Kuramoto and Stuart-Landau oscillator networks on Erdős-Rényi and Barabási-Albert topologies. Quantifying hysteresis loop width and characterizing flash-crash desynchronization events under abrupt coupling attenuation — bridging dynamical systems theory and systemic risk.
 
-<table>
-<tr>
-<td>
+**Financial Contagion via Percolation Theory**
+Extending the Erdős-Rényi random graph framework to model systemic risk propagation in interbank networks. Implementing DebtRank (Battiston et al., 2012), Watts threshold cascades, and bond percolation contagion protocols to identify critical collapse thresholds and map safe operating regions.
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  Financial Contagion Network Model    [ IN PROGRESS ]    ║
-║  ─────────────────────────────────────  June 2026        ║
-║                                                          ║
-║  Modeling systemic risk propagation in financial         ║
-║  networks using percolation theory. Extending the        ║
-║  Erdos-Renyi framework to simulate cascade failure       ║
-║  and identify the critical collapse threshold.           ║
-║                                                          ║
-║  Python · NetworkX · Percolation Theory · Stat Physics   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
+*Research manuscript in preparation.*
 
 ---
 
@@ -61,44 +46,72 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Erdos-Renyi Random Graph Evaluation](https://github.com/Athmeeya2006/erdos-graph)
-Research evaluation of structural phase transitions in large-scale random graphs. Confirmed the **s^(-3/2) cluster-size power law** at the percolation threshold via 1,000+ Monte Carlo trials on graphs up to 10,000 vertices. Benchmarked O(n^2) vs Batagelj-Brandes linear-time generation.
+### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
+
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, External Sampling MCCFR) computing Nash-approximate strategies across a 24x range of game-tree sizes: Kuhn Poker (12 info sets) through Leduc Poker (288 info sets). Drives exploitability below **0.001 chips/game** within 10,000 iterations, cross-validated against brute-force enumeration on Kuhn (agreement within 0.002). Bridges CFR equilibrium output to **Glosten-Milgrom (1985) market microstructure** via the informed-trader/bluffer isomorphism — mapping Nash bluff frequency directly to adverse selection spread estimates. Real-time CLI bot with Dirichlet posterior opponent model, SPRT leak detector (5% false-positive, 5% false-negative), and confidence-gated strategy mixer. 119 tests, CI on Python 3.11/3.12.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [FlowMax: Max-Flow Benchmarking Suite](https://github.com/Athmeeya2006/Max-Flow)
-Implemented and benchmarked **5 max-flow algorithms** across 21 datasets spanning 7 topology categories. Empirically confirmed **O(V^2E) vs O(VE^2)** complexity gaps. Applied to airline scheduling, image segmentation, optical fibre allocation.
+### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
+
+Full-stack simulation of no-regret learning in market making. C++17 limit order book with price-time priority and O(log N) insertion, exposed to Python via pybind11. Benchmarks **6 algorithms** (Exp3, Exp3 with doubling trick, SW-Exp3, EXP4, Avellaneda-Stoikov, fixed-spread baselines) across 10,000-round simulations in 4 market regimes (calm, volatile, illiquid, informed-heavy), with abrupt and gradual regime transitions. Empirical regret stays below the O(√TK ln K) theoretical bound across all runs. Three-component PnL decomposition (spread capture, adverse selection, inventory loss) with bootstrap confidence intervals across 200 resamples. 8 test modules covering convergence, LOB mechanics, and adaptation speed.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-00ff88?style=flat-square&logoColor=black)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [You Matter Wellness](https://github.com/Athmeeya2006/You-Matter-Wellness)
-**🏆 9th of 100+ teams** · Star Union Dai-ichi National Tech Hackathon. Decoupled microservice wellness platform with streak tracking, challenge systems, real-time leaderboards, and ML-powered forecasts. Deployed on Vercel and Railway.
+### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+High-performance numerical framework for Kuramoto and Stuart-Landau oscillator dynamics on Erdős-Rényi and Barabási-Albert network topologies. Custom C++17 RK4 integration engine achieves a **30x speedup** over SciPy adaptive solvers, enabling 525-run parameter sweeps that previously took hours to complete in minutes. Finite-size scaling across 5 system sizes (N = 50 to N = 800) recovers the theoretical mean-field critical coupling K_c = √(8/π) ≈ 1.5957 to within **2%** empirically. Lyapunov exponent pipeline (Benettin variational method) provides a dynamical-systems diagnostic for chaos onset, going beyond order-parameter heuristics. 95% test coverage, CI across Python 3.10/3.11/3.12.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
+### [Erdős-Rényi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
+
+Large-scale Monte Carlo evaluation of the G(n,p) random graph model, validating 3 classical phase-transition scaling laws and extending the framework to real-world contagion. Confirmed the **s^(-3/2) cluster-size power law** at the percolation threshold via 10,980 total simulation runs; recovered the Δλ ~ n^(-1/3) finite-size scaling exponent via log-log OLS regression. S&P 500 correlation network analysis (100 stocks, 3 years of log-returns) yields a clustering Z-score **> 30σ** against 1,000 ER null-model graphs (p < 10^-300), definitively rejecting the null. Financial contagion models include DebtRank, Watts threshold cascades, and bond percolation. 21 publication-quality figures, Manim-rendered phase transition animation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
+![Manim](https://img.shields.io/badge/Manim-343434?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Felicity Fest Management System](https://github.com/Athmeeya2006/Felicity-Fest-Management-System)
-3-role MERN event portal for IIIT Hyderabad's annual fest. **70+ REST endpoints**, Socket.IO real-time chat, browser-camera QR attendance, merchandise payment approval, JWT auth with role-based route guards.
+
+3-role MERN event portal for IIIT Hyderabad's annual cultural fest. **70+ REST endpoints**, Socket.IO real-time chat, browser-camera QR attendance, merchandise payment approval workflow, JWT authentication with role-based route guards.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [You Matter Wellness](https://github.com/Athmeeya2006/You-Matter-Wellness)
+
+**🏆 9th of 100+ teams** · Star Union Dai-ichi National Tech Hackathon. Decoupled microservice wellness platform with streak tracking, challenge systems, real-time leaderboards, and ML-powered activity forecasts. Deployed on Vercel and Railway.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 </td>
 </tr>
@@ -112,11 +125,41 @@ Implemented and benchmarked **5 max-flow algorithms** across 21 datasets spannin
 
 | Achievement | Details |
 |:---|:---|
-| 🥇 **INMOTC 2022** | INMO Training Camp, ICTS-TIFR Bengaluru · **1 of 22 from Karnataka** |
-| 📐 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
-| 🔭 **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** (IAPT) |
-| 🏊 **SGFI Nationals** | Represented Karnataka in Swimming at School Games Federation of India Nationals |
-| 💻 **Codeforces** | 300+ problems across DP, graph algorithms, number theory, combinatorics |
+| 🥇 **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
+| 📐 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** · IOQM → RMO → INMO |
+| 🔭 **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
+| 🏊 **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
+| 🏓 **State-Level Table Tennis** | Competitive circuit player, state tournament appearances |
+| 💻 **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
+
+</div>
+
+---
+
+## 📚 Currently Studying
+
+```
+Probability Theory         Measure-theoretic foundations, sigma-algebras, convergence theorems
+Stochastic Processes       Markov chains, martingales, Brownian motion, Itô calculus
+Random Graph Theory        Connectivity thresholds, giant component, spectral methods
+Statistical Inference      MLE, Bayesian estimation, hypothesis testing, bootstrap theory
+Combinatorics              Extremal graph theory, generating functions, algebraic methods
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Athmeeya2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmeeya2006&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Athmeeya2006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://github.com/Athmeeya2006)
 
 </div>
 
@@ -126,17 +169,17 @@ Implemented and benchmarked **5 max-flow algorithms** across 21 datasets spannin
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,express,postgres,mongodb,linux,docker,aws,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,express,postgres,mongodb,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
 ```
-Research Stack   NumPy · SciPy · NetworkX · Matplotlib · Pandas · Monte Carlo Simulation
-Core             Algorithm Design · Probability Theory · Stochastic Processes · Graph Theory
-Systems          PostgreSQL · MongoDB · Linux · Docker · AWS · CI/CD
-Web              React.js · Node.js · Express.js · Prisma ORM · Tailwind · Socket.IO
+Research     NumPy · SciPy · NetworkX · Matplotlib · Pandas · Manim · Monte Carlo
+Core         Probability Theory · Stochastic Processes · Graph Theory · Statistical Mechanics
+Systems      C++17 · pybind11 · CMake · PostgreSQL · MongoDB · Linux
+Web          React.js · Node.js · Express.js · Socket.IO · Prisma ORM · Tailwind CSS
 ```
 
 ---
@@ -145,6 +188,6 @@ Web              React.js · Node.js · Express.js · Prisma ORM · Tailwind · 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*Building at the intersection of mathematical rigor and computational systems.*
+*From phase transitions in random graphs to synchronization breakdown in oscillator networks — studying how complex systems collapse, one critical threshold at a time.*
 
 </div>
