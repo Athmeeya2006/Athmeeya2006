@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=github&logoColor=white)](https://athmeeya2006.github.io/webpage/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athmeeya-kashyap)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/athmeeyakashyap)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmeeyakashyap@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://athmeeya2006.github.io/webpage/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/athmeeya-kashyap)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/athmeeyakashyap)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:athmeeyakashyap@gmail.com)
 
 </div>
 
@@ -42,7 +42,7 @@ C++17 limit order book with price-time priority, exposed to Python via pybind11.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![pybind11](https://img.shields.io/badge/pybind11-059669?style=flat-square)
+![pybind11](https://img.shields.io/badge/pybind11-00599C?style=flat-square)
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C
 Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 simulation runs, extended to financial contagion via DebtRank, Watts cascades, and bond percolation. S&P 500 correlation network yields clustering Z-score above 30 sigma against 1,000 ER null graphs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-059669?style=flat-square)
+![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square)
 ![Manim](https://img.shields.io/badge/Manim-343434?style=flat-square&logoColor=white)
 
 </td>
@@ -75,56 +75,14 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 ## Achievements
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 INMO Training Camp (INMOTC)
-**1 of 22 selected from Karnataka** · *ICTS-TIFR Bengaluru (2022)*
-* Part of the elite state cohort selected for advanced training under top mathematicians.
-* Intensive problem-solving curriculum focused on higher-level Olympiad Mathematics.
-
-![Math Olympiad](https://img.shields.io/badge/Olympiad-Mathematics-00599C?style=flat-square)
-![Camp](https://img.shields.io/badge/Camp-INMOTC-059669?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🥈 INMO Qualifier
-**Top 300 Nationally** · *Indian National Mathematical Olympiad (2022)*
-* Qualified for the prestigious **Indian National Mathematical Olympiad (INMO)**.
-* Placed in the top tier of mathematical minds nationwide.
-
-![Math Olympiad](https://img.shields.io/badge/Olympiad-Mathematics-00599C?style=flat-square)
-![Rank](https://img.shields.io/badge/Rank-Top%20300-059669?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Astronomy Olympiad (NSEA)
-**Top 1% Statewide** · *IAPT (2023)*
-* Cleared the **National Standard Examination in Astronomy (NSEA)**.
-* Conducted by the Indian Association of Physics Teachers (IAPT), demonstrating excellent astrophysical foundation.
-
-![Astronomy](https://img.shields.io/badge/Olympiad-Astronomy-064F8C?style=flat-square)
-![Score](https://img.shields.io/badge/Score-Top%201%25-059669?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏊 Swimming Nationals (SGFI)
-**Karnataka State Representative** · *Breaststroke 200m*
-* Represented Karnataka State in the **School Games Federation of India (SGFI) Nationals**.
-* Competed at the highest national school athletics tier.
-
-![Sports](https://img.shields.io/badge/Sports-Swimming-0284C7?style=flat-square)
-![Level](https://img.shields.io/badge/Level-National-059669?style=flat-square)
-
-</td>
-</tr>
-</table>
+* 🏆 **INMO Training Camp (INMOTC 2022)** — **1 of 22 Selected from Karnataka**
+  * *ICTS-TIFR Bengaluru* · Part of the elite state cohort selected for advanced mathematical training under the national Olympiad program.
+* 🥈 **INMO Qualifier (2022)** — **Top 300 Nationally**
+  * *Indian National Mathematical Olympiad* · Placed in the top tier of competitive mathematical minds in the country.
+* 🔭 **Astronomy Olympiad (NSEA 2023)** — **Top 1% Statewide**
+  * *National Standard Examination in Astronomy* · Conducted by IAPT, demonstrating outstanding astrophysical foundation.
+* 🏊 **Swimming Nationals (SGFI)** — **Represented Karnataka State**
+  * *School Games Federation of India Nationals* · Competed in the 200m Breaststroke event at the highest national school athletics tier.
 
 ## Stack
 
