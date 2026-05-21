@@ -17,7 +17,7 @@
 
 <br/>
 
-> Math olympiad qualifier, national-level swimmer, and table tennis player - I'm drawn to speed, precision, and how things break under pressure. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, where I research how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks.
+> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks. Math olympiad background, national-level swimmer, table tennis player.
 
 ---
 
