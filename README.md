@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=500&color=00FF88&center=true&vCenter=true&width=720&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks. Math olympiad background, national-level swimmer, table tennis player.
+> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. Math olympiad background, national-level swimmer, table tennis player.
 
 ## Projects
 
@@ -51,7 +51,7 @@ C++17 limit order book with price-time priority, exposed to Python via pybind11.
 
 ### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
 
-Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K_c to within 2%.
+Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K-c to within 2%.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -84,7 +84,7 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 ### **Top 1%** Statewide · Astronomy Olympiad (2023)
 *National Standard Examination in Astronomy(NSEA), conducted by the Indian Association of Physics Teachers (IAPT).*
 
-### **State Athlete** · Swimming Nationals (SGFI)
+### **National Athlete** · Swimming Nationals (SGFI)
 *Represented Karnataka at the School Games Federation of India Nationals.*
 
 ## Stack
