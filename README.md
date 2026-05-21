@@ -1,92 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Athmeeya%20M%20Kashyap&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Undergraduate%20Researcher%20%C2%B7%20IIIT%20Hyderabad&descSize=19&descAlignY=62&descColor=00ff88" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,66,ff,00ff88,ff00ff&height=260&section=header&text=Athmeeya%20M%20Kashyap&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Undergraduate%20Researcher%20·%20IIIT%20Hyderabad&descSize=20&descAlignY=65&descColor=00ffcc" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00FF88&center=true&vCenter=true&width=780&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka;Undergraduate+Researcher+@+CCNSB+Lab;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=700&color=00FFCC&center=true&vCenter=true&width=820&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka;Complex+Systems+Researcher+%40+IIIT+Hyderabad;Phase+Transitions+%C2%B7+Cascading+Failures+%C2%B7+Networks)](https://github.com/Athmeeya2006)
 
 <br/>
 
 <div align="center">
-  <a href="https://athmeeya2006.github.io/webpage/"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/athmeeya-kashyap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://codeforces.com/profile/athmeeyakashyap"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="mailto:athmeeyakashyap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://athmeeya2006.github.io/webpage/"><img src="https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/athmeeya-kashyap"><img src="https://img.shields.io/badge/LINKEDIN-00b7ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/athmeeyakashyap"><img src="https://img.shields.io/badge/CODEFORCES-ff00aa?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=111111" alt="Codeforces"></a>
+  <a href="mailto:athmeeyakashyap@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff3366?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"></a>
 </div>
 
 </div>
 
 <br/>
 
-> **Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences)** at IIIT Hyderabad. Researching how complex systems collapse — from phase transitions in random graphs to cascading failures in financial networks. Math olympiad background, national-level swimmer & table tennis player.
+> **Second-year Dual Degree (B.Tech CS + MS Computational Natural Sciences)** at IIIT Hyderabad.  
+> Diving deep into how complex systems collapse — phase transitions in random graphs, cascading failures in financial networks, and explosive synchronization.  
+> Math olympiad background • National-level swimmer • Table tennis player.
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 NEON PROJECTS
 
 <div align="center">
 
 ### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
-**Four CFR-family solvers • Exploitability < 0.001 chips/game**
+**Nash Equilibrium • CFR Family • Exploitability < 0.001**
 
-Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR) computing Nash-approximate strategies across Kuhn and Leduc Poker. Maps CFR bluff frequency to Glosten-Milgrom adverse selection spread.
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR) on Kuhn & Leduc Poker. Links bluffing dynamics to market microstructure via informed-trader isomorphism.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ffcc?style=flat-square&logo=python&logoColor=000)
+![NumPy](https://img.shields.io/badge/NumPy-00ddff?style=flat-square&logo=numpy&logoColor=000)
+![SciPy](https://img.shields.io/badge/SciPy-ff00ff?style=flat-square&logo=scipy&logoColor=white)
 
 ---
 
 ### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
-**C++17 LOB • 6 No-Regret Algorithms • O(√(TK ln K)) bound**
+**C++17 LOB • 6 No-Regret Algorithms • Real-Time**
 
-C++17 limit order book with price-time priority, exposed to Python via pybind11. Benchmarked across 4 market regimes.
+High-performance limit order book with price-time priority. Empirical regret consistently beats O(√(TK ln K)) bound across multiple regimes.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![pybind11](https://img.shields.io/badge/pybind11-00ff88?style=flat-square&logoColor=black)
+![C++](https://img.shields.io/badge/C++17-00aaff?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ffcc?style=flat-square&logo=python&logoColor=000)
+![pybind11](https://img.shields.io/badge/pybind11-ff00ff?style=flat-square&logoColor=white)
 
 ---
 
 ### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
-**Custom C++ RK4 Engine • 30x faster than SciPy**
+**Custom RK4 Engine • 30x Faster • Finite-Size Scaling**
 
-Kuramoto & Stuart-Landau dynamics on ER/BA networks. Finite-size scaling recovers theoretical K_c within 2%.
+Kuramoto & Stuart-Landau oscillators on complex networks. Recovers critical coupling K_c within 2% error.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00aaff?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ffcc?style=flat-square&logo=python&logoColor=000)
+![CMake](https://img.shields.io/badge/CMake-ff8800?style=flat-square&logo=cmake&logoColor=white)
 
 ---
 
-### [Erdos-Renyi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
-**10,980 Monte Carlo runs • 30σ clustering in S&P 500**
+### [Erdős–Rényi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
+**10,980 Simulations • 30σ Anomaly in S&P 500**
 
-Phase-transition validation + financial contagion via DebtRank & Watts cascades.
+Monte Carlo validation of percolation phase transitions + financial contagion modeling (DebtRank, Watts cascades).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ffcc?style=flat-square&logo=python&logoColor=000)
 ![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
-![Manim](https://img.shields.io/badge/Manim-343434?style=flat-square&logoColor=white)
+![Manim](https://img.shields.io/badge/Manim-ff00ff?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🌌 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INMOTC_2022-1_of_22_from_Karnataka-00ff88?style=for-the-badge" height="38">
-<img src="https://img.shields.io/badge/INMO_Qualifier-Top_300_Nationally-00ff88?style=for-the-badge" height="38">
-<img src="https://img.shields.io/badge/NSEA_2023-Top_1%25_Statewide-00ff88?style=for-the-badge" height="38">
-<img src="https://img.shields.io/badge/SGFI_Nationals-Karnataka_Representative-00ff88?style=for-the-badge" height="38">
+<img src="https://img.shields.io/badge/INMOTC_2022-1_of_22_from_Karnataka-00ff88?style=for-the-badge&logo=star&logoColor=black&labelColor=111111" height="42">
+<img src="https://img.shields.io/badge/INMO_2022-Top_300_Nationally-00ffcc?style=for-the-badge&logo=star&logoColor=black&labelColor=111111" height="42">
+<img src="https://img.shields.io/badge/NSEA_2023-Top_1%25_Statewide-ff00ff?style=for-the-badge&logo=star&logoColor=black&labelColor=111111" height="42">
+<img src="https://img.shields.io/badge/SGFI_Nationals-Karnataka_Representative-00aaff?style=for-the-badge&logo=star&logoColor=black&labelColor=111111" height="42">
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ TECH STACK
 
 <div align="center">
 
@@ -98,8 +100,6 @@ Phase-transition validation + financial contagion via DebtRank & Watts cascades.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**If everything seems under control, you're not going fast enough.**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=00ff88,00ffff,ff00ff&height=140&section=footer&text=If%20everything%20seems%20under%20control%2C%20you're%20not%20going%20fast%20enough.&fontSize=18&fontColor=ffffff" width="100%"/>
 
 </div>
