@@ -51,7 +51,7 @@ C++17 limit order book with price-time priority, exposed to Python via pybind11.
 
 ### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
 
-Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K-c to within 2%.
+Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K-c to within 2%.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
