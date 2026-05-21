@@ -183,7 +183,7 @@ Combinatorics              Extremal graph theory, generating functions, algebrai
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,socketio,react,tailwind,framer,numpy,pandas,sklearn,matplotlib,linux,git,docker,cmake&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,react,tailwind,sklearn,linux,git,docker,cmake&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
