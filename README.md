@@ -17,7 +17,7 @@
 
 <br/>
 
-> Math olympiad qualifier turned network scientist. I study how complex systems collapse - phase transitions in random graphs, synchronization breakdown in coupled oscillator networks, and cascade failure in financial systems - and build rigorous computational tools to model them precisely. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad.
+> Math olympiad qualifier, national-level swimmer, and table tennis player - I'm drawn to speed, precision, and how things break under pressure. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, where I research how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks.
 
 ---
 
@@ -28,7 +28,7 @@
 Investigating the mathematical structure of irreversible transitions in complex networks. Current work spans three interconnected directions:
 
 **Signed Network Dynamics**
-How signed edge weights (excitatory and inhibitory connections) in heterogeneous networks drive systems toward irreversible dynamical phase transitions. Connecting signed Laplacian spectral properties to large-scale connectivity collapse and the emergence of bistable regimes.
+Exploring how signed edge weights (excitatory and inhibitory connections) in heterogeneous networks drive systems toward irreversible dynamical phase transitions. Connecting signed Laplacian spectral properties to large-scale connectivity collapse and the emergence of bistable regimes.
 
 **Explosive Synchronization and Flash Crashes**
 Modeling first-order synchronization transitions in Kuramoto and Stuart-Landau oscillator networks on Erdős-Rényi and Barabási-Albert topologies. Quantifying hysteresis loop width and characterizing flash-crash desynchronization events under abrupt coupling attenuation - bridging dynamical systems theory and systemic risk.
@@ -48,7 +48,15 @@ Extending the Erdős-Rényi random graph framework to model systemic risk propag
 
 ### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
 
-Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, External Sampling MCCFR) computing Nash-approximate strategies across a 24x range of game-tree sizes: Kuhn Poker (12 info sets) through Leduc Poker (288 info sets). Drives exploitability below **0.001 chips/game** within 10,000 iterations, cross-validated against brute-force enumeration on Kuhn (agreement within 0.002). Bridges CFR equilibrium output to **Glosten-Milgrom (1985) market microstructure** via the informed-trader/bluffer isomorphism — mapping Nash bluff frequency directly to adverse selection spread estimates. Real-time CLI bot with Dirichlet posterior opponent model, SPRT leak detector (5% false-positive, 5% false-negative), and confidence-gated strategy mixer. 119 tests, CI on Python 3.11/3.12.
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, External Sampling MCCFR) computing 
+Nash-approximate strategies from Kuhn Poker (12 info sets) through Leduc Poker (288 info sets).
+
+- **Convergence:** Exploitability below 0.001 chips/game within 10k iterations, cross-validated 
+  against brute-force enumeration on Kuhn (agreement within 0.002)
+- **Financial Bridge:** Maps CFR bluff frequency to Glosten-Milgrom (1985) adverse selection 
+  spread estimates via the informed-trader/bluffer isomorphism
+- **Architecture:** Real-time CLI bot with Dirichlet posterior opponent model and SPRT leak 
+  detector (5% FP/FN), 119 tests, CI on Python 3.11/3.12
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -59,7 +67,14 @@ Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, External Sampling MCCFR) compu
 
 ### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
 
-Full-stack simulation of no-regret learning in market making. C++17 limit order book with price-time priority and O(log N) insertion, exposed to Python via pybind11. Benchmarks **6 algorithms** (Exp3, Exp3 with doubling trick, SW-Exp3, EXP4, Avellaneda-Stoikov, fixed-spread baselines) across 10,000-round simulations in 4 market regimes (calm, volatile, illiquid, informed-heavy), with abrupt and gradual regime transitions. Empirical regret stays below the O(√TK ln K) theoretical bound across all runs. Three-component PnL decomposition (spread capture, adverse selection, inventory loss) with bootstrap confidence intervals across 200 resamples. 8 test modules covering convergence, LOB mechanics, and adaptation speed.
+End-to-end simulation of no-regret learning in market making. C++17 limit order book with 
+price-time priority and O(log N) insertion, exposed to Python via pybind11.
+
+- **Benchmarks:** 6 algorithms across 10,000-round simulations in 4 market regimes, with abrupt 
+  and gradual regime transitions
+- **Theory:** Empirical regret stays below the O(√TK ln K) bound across all runs
+- **Analytics:** Three-component PnL decomposition (spread capture, adverse selection, inventory 
+  loss) with bootstrap CIs across 200 resamples. 8 test modules.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -72,7 +87,15 @@ Full-stack simulation of no-regret learning in market making. C++17 limit order 
 
 ### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
 
-High-performance numerical framework for Kuramoto and Stuart-Landau oscillator dynamics on Erdős-Rényi and Barabási-Albert network topologies. Custom C++17 RK4 integration engine achieves a **30x speedup** over SciPy adaptive solvers, enabling 525-run parameter sweeps that previously took hours to complete in minutes. Finite-size scaling across 5 system sizes (N = 50 to N = 800) recovers the theoretical mean-field critical coupling K_c = √(8/π) ≈ 1.5957 to within **2%** empirically. Lyapunov exponent pipeline (Benettin variational method) provides a dynamical-systems diagnostic for chaos onset, going beyond order-parameter heuristics. 95% test coverage, CI across Python 3.10/3.11/3.12.
+High-performance numerical framework for Kuramoto and Stuart-Landau oscillator dynamics on 
+Erdős-Rényi and Barabási-Albert topologies.
+
+- **Performance:** Custom C++17 RK4 engine achieves 30x speedup over SciPy adaptive solvers, 
+  enabling 525-run parameter sweeps in minutes
+- **Validation:** Finite-size scaling (N = 50 to N = 800) recovers theoretical K_c = √(8/π) 
+  ≈ 1.5957 to within 2% empirically
+- **Diagnostics:** Lyapunov exponent pipeline (Benettin method) for chaos onset detection. 95% 
+  test coverage, CI on Python 3.10/3.11/3.12
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -83,7 +106,15 @@ High-performance numerical framework for Kuramoto and Stuart-Landau oscillator d
 
 ### [Erdős-Rényi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
 
-Large-scale Monte Carlo evaluation of the G(n,p) random graph model, validating 3 classical phase-transition scaling laws and extending the framework to real-world contagion. Confirmed the **s^(-3/2) cluster-size power law** at the percolation threshold via 10,980 total simulation runs; recovered the Δλ ~ n^(-1/3) finite-size scaling exponent via log-log OLS regression. S&P 500 correlation network analysis (100 stocks, 3 years of log-returns) yields a clustering Z-score **> 30σ** against 1,000 ER null-model graphs (p < 10^-300), definitively rejecting the null. Financial contagion models include DebtRank, Watts threshold cascades, and bond percolation. 21 publication-quality figures, Manim-rendered phase transition animation.
+Large-scale Monte Carlo evaluation of G(n,p), validating 3 classical phase-transition scaling 
+laws and extending the framework to financial contagion.
+
+- **Theory:** Confirmed s^(-3/2) cluster power law via 10,980 simulation runs; recovered 
+  Δλ ~ n^(-1/3) via log-log OLS regression
+- **Empirical:** S&P 500 correlation network yields clustering Z-score > 30σ against 1,000 ER 
+  null graphs (p < 10^-300)
+- **Models:** DebtRank, Watts threshold cascades, bond percolation. 21 publication-quality 
+  figures, Manim phase transition animation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
@@ -136,7 +167,7 @@ Large-scale Monte Carlo evaluation of the G(n,p) random graph model, validating 
 
 ---
 
-## 📚 Currently Studying
+## 📚 Current Focus
 
 ```
 Probability Theory         Measure-theoretic foundations, sigma-algebras, convergence theorems
@@ -171,6 +202,6 @@ Web          React.js · Node.js · Express.js · Socket.IO · Prisma ORM · Tai
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*From phase transitions in random graphs to synchronization breakdown in oscillator networks - studying how complex systems collapse, one critical threshold at a time.*
+*Always open to discussing complex systems research, quantitative finance, or algorithmic problems. Feel free to reach out.*
 
 </div>
