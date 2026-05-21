@@ -157,10 +157,10 @@ laws and extending the framework to financial contagion.
 | Achievement | Details |
 |:---|:---|
 | 🥇 **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
-| 📐 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** · IOQM → RMO → INMO |
+| 📐 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
 | 🔭 **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
 | 🏊 **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
-| 🏓 **State-Level Table Tennis** | Competitive circuit player, state tournament appearances |
+| 🏓 **State-Level Table Tennis** | Competed in state-level open table tennis tournaments |
 | 💻 **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
 
 </div>
@@ -183,18 +183,26 @@ Combinatorics              Extremal graph theory, generating functions, algebrai
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,express,postgres,mongodb,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,socketio,react,tailwind,framer,numpy,pandas,sklearn,matplotlib,linux,git,docker,cmake&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
-```
-Research     NumPy · SciPy · NetworkX · Matplotlib · Pandas · Manim · Monte Carlo
-Core         Probability Theory · Stochastic Processes · Graph Theory · Statistical Mechanics
-Systems      C++17 · pybind11 · CMake · PostgreSQL · MongoDB · Linux
-Web          React.js · Node.js · Express.js · Socket.IO · Prisma ORM · Tailwind CSS
-```
+Languages    Python · C++17 · TypeScript · JavaScript · SQL · Bash · Kotlin
+
+Research     Complex Networks · Percolation Theory · Monte Carlo Simulation ·
+             Stochastic Processes · Statistical Mechanics · Graph Theory
+
+Backend      Node.js · Express.js · REST APIs · Prisma ORM · PostgreSQL ·
+             MongoDB · JWT Auth · Socket.IO
+
+Frontend     React.js · Tailwind CSS · Framer Motion
+
+Scientific   NumPy · SciPy · Pandas · NetworkX · Matplotlib · Manim ·
+Computing    Scikit-learn
+
+Systems      Linux · Git · Docker · CMake
 
 ---
 
