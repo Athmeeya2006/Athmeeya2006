@@ -21,25 +21,6 @@
 
 ---
 
-## 🔬 Research
-
-**Undergraduate Researcher · CCNSB Lab, IIIT Hyderabad · Prof. Chittaranjan Hens**
-
-Investigating the mathematical structure of irreversible transitions in complex networks. Current work spans three interconnected directions:
-
-**Signed Network Dynamics**
-Exploring how signed edge weights (excitatory and inhibitory connections) in heterogeneous networks drive systems toward irreversible dynamical phase transitions. Connecting signed Laplacian spectral properties to large-scale connectivity collapse and the emergence of bistable regimes.
-
-**Explosive Synchronization and Flash Crashes**
-Modeling first-order synchronization transitions in Kuramoto and Stuart-Landau oscillator networks on Erdős-Rényi and Barabási-Albert topologies. Quantifying hysteresis loop width and characterizing flash-crash desynchronization events under abrupt coupling attenuation - bridging dynamical systems theory and systemic risk.
-
-**Financial Contagion via Percolation Theory**
-Extending the Erdős-Rényi random graph framework to model systemic risk propagation in interbank networks. Implementing DebtRank (Battiston et al., 2012), Watts threshold cascades, and bond percolation contagion protocols to identify critical collapse thresholds and map safe operating regions.
-
-*Research manuscript in preparation.*
-
----
-
 ## 🗂️ Projects
 
 <table>
@@ -48,15 +29,7 @@ Extending the Erdős-Rényi random graph framework to model systemic risk propag
 
 ### [GTO Poker Bot](https://github.com/Athmeeya2006/GTO_Poker_Bot)
 
-Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, External Sampling MCCFR) computing 
-Nash-approximate strategies from Kuhn Poker (12 info sets) through Leduc Poker (288 info sets).
-
-- **Convergence:** Exploitability below 0.001 chips/game within 10k iterations, cross-validated 
-  against brute-force enumeration on Kuhn (agreement within 0.002)
-- **Financial Bridge:** Maps CFR bluff frequency to Glosten-Milgrom (1985) adverse selection 
-  spread estimates via the informed-trader/bluffer isomorphism
-- **Architecture:** Real-time CLI bot with Dirichlet posterior opponent model and SPRT leak 
-  detector (5% FP/FN), 119 tests
+Four CFR-family solvers (Vanilla CFR, CFR+, DCFR, MCCFR) computing Nash-approximate strategies across Kuhn and Leduc Poker. Exploitability below 0.001 chips/game within 10k iterations. Maps CFR bluff frequency to Glosten-Milgrom adverse selection spread via the informed-trader/bluffer isomorphism.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -67,14 +40,7 @@ Nash-approximate strategies from Kuhn Poker (12 info sets) through Leduc Poker (
 
 ### [No-Regret Market Making Engine](https://github.com/Athmeeya2006/No-Regret-Market-Maker)
 
-End-to-end simulation of no-regret learning in market making. C++17 limit order book with 
-price-time priority and O(log N) insertion, exposed to Python via pybind11.
-
-- **Benchmarks:** 6 algorithms across 10,000-round simulations in 4 market regimes, with abrupt 
-  and gradual regime transitions
-- **Theory:** Empirical regret stays below the O(√TK ln K) bound across all runs
-- **Analytics:** Three-component PnL decomposition (spread capture, adverse selection, inventory 
-  loss) with bootstrap CIs across 200 resamples. 8 test modules.
+C++17 limit order book with price-time priority, exposed to Python via pybind11. Benchmarks 6 no-regret algorithms across 10,000-round simulations in 4 market regimes. Empirical regret stays below the O(sqrt(TK ln K)) bound across all runs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -87,15 +53,7 @@ price-time priority and O(log N) insertion, exposed to Python via pybind11.
 
 ### [Explosive Synchronization & Flash Crash](https://github.com/Athmeeya2006/Explosive-Sync-Flash-Crash)
 
-High-performance numerical framework for Kuramoto and Stuart-Landau oscillator dynamics on 
-Erdős-Rényi and Barabási-Albert topologies.
-
-- **Performance:** Custom C++17 RK4 engine achieves 30x speedup over SciPy adaptive solvers, 
-  enabling 525-run parameter sweeps in minutes
-- **Validation:** Finite-size scaling (N = 50 to N = 800) recovers theoretical K_c = √(8/π) 
-  ≈ 1.5957 to within 2% empirically
-- **Diagnostics:** Lyapunov exponent pipeline (Benettin method) for chaos onset detection. 95% 
-  test coverage
+Kuramoto and Stuart-Landau oscillator dynamics on ER and BA topologies. Custom C++17 RK4 engine runs 30x faster than SciPy adaptive solvers. Finite-size scaling across N = 50 to 800 recovers theoretical K_c to within 2%.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -104,17 +62,9 @@ Erdős-Rényi and Barabási-Albert topologies.
 </td>
 <td width="50%" valign="top">
 
-### [Erdős-Rényi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
+### [Erdos-Renyi Contagion](https://github.com/Athmeeya2006/Erdos-Renyi-Contagion)
 
-Large-scale Monte Carlo evaluation of G(n,p), validating 3 classical phase-transition scaling 
-laws and extending the framework to financial contagion.
-
-- **Theory:** Confirmed s^(-3/2) cluster power law via 10,980 simulation runs; recovered 
-  Δλ ~ n^(-1/3) via log-log OLS regression
-- **Empirical:** S&P 500 correlation network yields clustering Z-score > 30σ against 1,000 ER 
-  null graphs (p < 10^-300)
-- **Models:** DebtRank, Watts threshold cascades, bond percolation. 21 publication-quality 
-  figures, Manim phase transition animation
+Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 simulation runs, extended to financial contagion via DebtRank, Watts cascades, and bond percolation. S&P 500 correlation network yields clustering Z-score above 30 sigma against 1,000 ER null graphs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-00ff88?style=flat-square&logoColor=black)
@@ -127,7 +77,7 @@ laws and extending the framework to financial contagion.
 
 ### [Felicity Fest Management System](https://github.com/Athmeeya2006/Felicity-Fest-Management-System)
 
-3-role MERN event portal for IIIT Hyderabad's annual cultural fest. **70+ REST endpoints**, Socket.IO real-time chat, browser-camera QR attendance, merchandise payment approval workflow, JWT authentication with role-based route guards.
+3-role MERN event portal for IIIT Hyderabad's annual cultural fest. 70+ REST endpoints, Socket.IO real-time chat, browser-camera QR attendance, and JWT auth with role-based route guards.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -138,7 +88,7 @@ laws and extending the framework to financial contagion.
 
 ### [You Matter Wellness](https://github.com/Athmeeya2006/You-Matter-Wellness)
 
-**🏆 9th of 100+ teams** · Star Union Dai-ichi National Tech Hackathon. Decoupled microservice wellness platform with streak tracking, challenge systems, real-time leaderboards, and ML-powered activity forecasts. Deployed on Vercel and Railway.
+**9th of 100+ teams** · Star Union Dai-ichi National Tech Hackathon. Microservice wellness platform with streak tracking, real-time leaderboards, and ML-powered activity forecasts. Deployed on Vercel and Railway.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -164,18 +114,6 @@ laws and extending the framework to financial contagion.
 | 💻 **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
 
 </div>
-
----
-
-## 📚 Current Focus
-
-```
-Probability Theory         Measure-theoretic foundations, sigma-algebras, convergence theorems
-Stochastic Processes       Markov chains, martingales, Brownian motion, Itô calculus
-Random Graph Theory        Connectivity thresholds, giant component, spectral methods
-Statistical Inference      MLE, Bayesian estimation, hypothesis testing, bootstrap theory
-Combinatorics              Extremal graph theory, generating functions, algebraic methods
-```
 
 ---
 
