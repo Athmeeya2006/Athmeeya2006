@@ -100,18 +100,18 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Achievement | Details |
 |:---|:---|
-| 🥇 **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
-| 📐 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
-| 🔭 **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
-| 🏊 **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
-| 🏓 **State-Level Table Tennis** | Competed in state-level open table tennis tournaments |
-| 💻 **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
+| **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
+| **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
+| **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
+| **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
+| **State-Level Table Tennis** | Competed in state-level open table tennis tournaments |
+| **Competitive Programming** | 300+ problems solved · DP, graph algorithms, number theory, combinatorics |
 
 </div>
 
@@ -124,23 +124,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,react,tailwind,sklearn,linux,git,docker,cmake&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
-
-<br/>
-
-Languages    Python · C++17 · TypeScript · JavaScript · SQL · Bash · Kotlin
-
-Research     Complex Networks · Percolation Theory · Monte Carlo Simulation ·
-             Stochastic Processes · Statistical Mechanics · Graph Theory
-
-Backend      Node.js · Express.js · REST APIs · Prisma ORM · PostgreSQL ·
-             MongoDB · JWT Auth · Socket.IO
-
-Frontend     React.js · Tailwind CSS · Framer Motion
-
-Scientific   NumPy · SciPy · Pandas · NetworkX · Matplotlib · Manim ·
-Computing    Scikit-learn
-
-Systems      Linux · Git · Docker · CMake
 
 ---
 
