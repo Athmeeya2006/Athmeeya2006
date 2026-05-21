@@ -75,10 +75,10 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 ## Achievements
 
-### **1 of 22** From the State of Karnataka · INMO Training Camp (INMOTC 2022)
+### **1 of 22** from the State of Karnataka · INMO Training Camp (INMOTC 2022)
 *Selected for advanced mathematical training at ICTS-TIFR Bengaluru.*
 
-### **Top 300** National Rank · INMO Qualifier (2022)
+### **Top 300** Nationally· INMO Qualifier (2022)
 *Cleared the regional stages to qualify for the national-level Indian National Mathematical Olympiad .*
 
 ### **Top 1%** Statewide · Astronomy Olympiad (2023)
