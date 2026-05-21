@@ -12,12 +12,38 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athmeeya-kashyap)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/athmeeyakashyap)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athmeeyakashyap@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Athmeeya2006&color=00ff88&style=for-the-badge&label=Profile+Views)](https://github.com/Athmeeya2006)
 
 </div>
 
 <br/>
 
 > Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems collapse - from phase transitions in random graphs to cascading failures in financial networks. Math olympiad background, national-level swimmer, table tennis player.
+
+---
+
+## Currently
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🔬 **Researching** | Explosive synchronization on financial networks - Kuramoto dynamics, finite-size scaling |
+| 🛠️ **Building** | No-Regret Market Maker - C++17 LOB exposed via pybind11, 6 online learning algorithms |
+| 📐 **Learning** | Stochastic calculus · Measure-theoretic probability · Market microstructure |
+| 🎯 **Target** | Codeforces 1700+ before placement season (July 2026) |
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Athmeeya2006&theme=matrix&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Athmeeya2006)
+
+</div>
 
 ---
 
@@ -72,7 +98,6 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 </td>
 </tr>
-
 </table>
 
 ---
@@ -83,10 +108,50 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 | Achievement | Details |
 |:---|:---|
-| **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
-| **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
-| **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
-| **SGFI Nationals** | Represented Karnataka in Swimming · School Games Federation of India Nationals · Breaststroke 200m |
+| 🏆 **INMOTC 2022** | INMO Training Camp · **1 of 22 selected from Karnataka** · ICTS-TIFR Bengaluru |
+| 🥇 **INMO Qualifier 2022** | Indian National Mathematical Olympiad · **Top 300 nationally** |
+| 🌟 **NSEA 2023** | National Standard Examination in Astronomy · **Top 1% statewide** · IAPT |
+| 🏊 **SGFI Nationals** | Represented Karnataka in Swimming · Breaststroke 200m |
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Athmeeya2006">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Athmeeya2006&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Athmeeya2006">
+  <img height="160" src="https://streak-stats.demolab.com?user=Athmeeya2006&hide_border=true&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&background=0d1117&dates=888888&sideLabels=00ff88&sideNums=ffffff&currStreakNum=ffffff" />
+</a>
+<a href="https://github.com/Athmeeya2006">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmeeya2006&layout=compact&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&langs_count=6" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Athmeeya2006&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8833&hide_border=true)](https://github.com/Athmeeya2006)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Athmeeya2006/Athmeeya2006/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Athmeeya2006/Athmeeya2006/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Athmeeya2006/Athmeeya2006/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
