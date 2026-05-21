@@ -21,7 +21,7 @@
 
 ---
 
-## 🗂️ Projects
+## Projects
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
