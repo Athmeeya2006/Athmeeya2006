@@ -17,7 +17,7 @@
 
 <br/>
 
-> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. Math olympiad background, national-level swimmer, table tennis player.
+> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. INMO Qualifier, National Swimmer, Table Tennis Player.
 
 ## Projects
 
@@ -79,7 +79,7 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 *Selected for advanced mathematical training at ICTS-TIFR Bengaluru.*
 
 ### **Top 300** Nationally· INMO Qualifier (2022)
-*Cleared the regional stages to qualify for the national-level Indian National Mathematical Olympiad .*
+*Cleared the regional stages to qualify for the Indian National Mathematical Olympiad .*
 
 ### **Top 1%** Statewide · Astronomy Olympiad (2023)
 *National Standard Examination in Astronomy(NSEA), conducted by the Indian Association of Physics Teachers (IAPT).*
