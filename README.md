@@ -85,7 +85,7 @@ Monte Carlo validation of G(n,p) phase-transition scaling laws across 10,980 sim
 *National Standard Examination in Astronomy, conducted by the Indian Association of Physics Teachers (IAPT).*
 
 ### **State Athlete** · Swimming Nationals (SGFI)
-*Represented Karnataka in the 200m Breaststroke at the School Games Federation of India Nationals.*
+*Represented Karnataka at the School Games Federation of India Nationals.*
 
 ## Stack
 
