@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=IOQM+%E2%86%92+RMO+%E2%86%92+INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-> Math olympiad qualifier turned network scientist. I study how complex systems collapse — phase transitions in random graphs, synchronization breakdown in coupled oscillator networks, and cascade failure in financial systems — and build rigorous computational tools to model them precisely. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad.
+> Math olympiad qualifier turned network scientist. I study how complex systems collapse - phase transitions in random graphs, synchronization breakdown in coupled oscillator networks, and cascade failure in financial systems - and build rigorous computational tools to model them precisely. Currently a second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad.
 
 ---
 
@@ -31,7 +31,7 @@ Investigating the mathematical structure of irreversible transitions in complex 
 How signed edge weights (excitatory and inhibitory connections) in heterogeneous networks drive systems toward irreversible dynamical phase transitions. Connecting signed Laplacian spectral properties to large-scale connectivity collapse and the emergence of bistable regimes.
 
 **Explosive Synchronization and Flash Crashes**
-Modeling first-order synchronization transitions in Kuramoto and Stuart-Landau oscillator networks on Erdős-Rényi and Barabási-Albert topologies. Quantifying hysteresis loop width and characterizing flash-crash desynchronization events under abrupt coupling attenuation — bridging dynamical systems theory and systemic risk.
+Modeling first-order synchronization transitions in Kuramoto and Stuart-Landau oscillator networks on Erdős-Rényi and Barabási-Albert topologies. Quantifying hysteresis loop width and characterizing flash-crash desynchronization events under abrupt coupling attenuation - bridging dynamical systems theory and systemic risk.
 
 **Financial Contagion via Percolation Theory**
 Extending the Erdős-Rényi random graph framework to model systemic risk propagation in interbank networks. Implementing DebtRank (Battiston et al., 2012), Watts threshold cascades, and bond percolation contagion protocols to identify critical collapse thresholds and map safe operating regions.
@@ -148,23 +148,6 @@ Combinatorics              Extremal graph theory, generating functions, algebrai
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Athmeeya2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmeeya2006&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Athmeeya2006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://github.com/Athmeeya2006)
-
-</div>
-
----
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -188,6 +171,6 @@ Web          React.js · Node.js · Express.js · Socket.IO · Prisma ORM · Tai
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*From phase transitions in random graphs to synchronization breakdown in oscillator networks — studying how complex systems collapse, one critical threshold at a time.*
+*From phase transitions in random graphs to synchronization breakdown in oscillator networks - studying how complex systems collapse, one critical threshold at a time.*
 
 </div>
