@@ -16,7 +16,7 @@
 
 <br/>
 
-> Second-year dual degree student (B.Tech CS + MS Computational Natural Sciences) at IIIT Hyderabad, researching how complex systems work - from phase transitions in random graphs to understanding emergent behaviour in financial networks. INMO Qualifier, National Swimmer, Table Tennis Player.
+> Second-year dual degree student at IIIT Hyderabad (B.Tech CS + MS Computational Natural Sciences), researching complex networks, synchronization dynamics, and phase transitions under Prof. Chittaranjan Hens at the CCNSB Lab. INMO Qualifier 2022, attended the Training Camp at ICTS-TIFR among roughly 300 students selected nationally. National-level swimmer, competitive table tennis player, and someone who spends time thinking about superbike aerodynamics.
 
 ## Stack
 
