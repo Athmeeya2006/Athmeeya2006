@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=200&color=00FF88&center=true&vCenter=true&width=720&lines=Mathematics+%C2%B7+Complex+Systems+%C2%B7+Phase+Transitions;INMO+2022+Qualifier+%C2%B7+INMOTC+%281+of+22+from+Karnataka%29;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=200&color=00FF88&center=true&vCenter=true&width=720&lines=Mathematics+%C2%B7+Complex+Networks+%C2%B7+Dynamical+Systems;INMO+2022+Qualifier+%C2%B7+INMOTC+%281+of+22+from+Karnataka%29;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad)](https://github.com/Athmeeya2006)
 
 <br/>
 
