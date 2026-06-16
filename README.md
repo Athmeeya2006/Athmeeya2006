@@ -33,6 +33,6 @@ Second-year dual-degree student at IIIT Hyderabad (B.Tech CS + MS Computational 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*If everything seems under control, you're not going fast enough.*
+*If everything seems under control, you're not going fast enough!*
 
 </div>
