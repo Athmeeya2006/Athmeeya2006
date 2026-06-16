@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Athmeeya%20M%20Kashyap&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Undergraduate%20Researcher%20%C2%B7%20IIIT%20Hyderabad&descSize=18&descAlignY=58&descColor=00ff88" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Athmeeya%20M%20Kashyap&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mathematics%20%C2%B7%20Complex%20Systems%20%C2%B7%20IIIT%20Hyderabad&descSize=18&descAlignY=58&descColor=00ff88" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=200&color=00FF88&center=true&vCenter=true&width=720&lines=INMO+Qualifier+%7C+Top+300+Nationally;INMOTC+2022+%7C+1+of+22+from+Karnataka+%7C+ICTS-TIFR+Bengaluru;Undergraduate+Researcher+%40+CCNSB+Lab%2C+IIIT+Hyderabad;Complex+Networks+%C2%B7+Dynamical+Systems+%C2%B7+Phase+Transitions)](https://github.com/Athmeeya2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=200&color=00FF88&center=true&vCenter=true&width=720&lines=Mathematics+%C2%B7+Complex+Systems+%C2%B7+Phase+Transitions;I+build+distributed+systems+and+quant+projects;INMO+2022+Qualifier+%C2%B7+INMOTC+%281+of+22+from+Karnataka%29;Research+%40+CCNSB+Lab%2C+IIIT+Hyderabad)](https://github.com/Athmeeya2006)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://athmeeya2006.github.io/webpage/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/athmeeya-kashyap)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:athmeeyakashyap@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Athmeeya2006&label=Profile%20Views&color=00ff88&style=flat)
 
 </div>
 
@@ -22,11 +26,24 @@ Second-year dual-degree student at IIIT Hyderabad (B.Tech CS + MS Computational 
 
 </div>
 
-## Stack
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,cpp,ts,js,kotlin,bash,sklearn,opencv,nodejs,express,fastapi,react,tailwind,graphql,postgres,mongodb,prisma,docker,kubernetes,aws,git,linux,cmake&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Athmeeya2006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Athmeeya2006&hide_border=true&background=00000000&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmeeya2006&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00ff88&text_color=ffffff" height="150"/>
 
 </div>
 
