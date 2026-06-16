@@ -16,13 +16,17 @@
 
 <br/>
 
-Second-year dual degree student at IIIT Hyderabad (B.Tech CS + MS Computational Natural Sciences), researching complex networks, synchronization dynamics, and phase transitions under Prof. Chittaranjan Hens at the CCNSB Lab. INMO Qualifier 2022, attended the Training Camp at ICTS-TIFR among roughly 300 students selected nationally. National-level swimmer, competitive table tennis player, and an avid superbike enthusiast.
+<div align="center">
+
+Second-year dual-degree student at IIIT Hyderabad (B.Tech CS + MS Computational Natural Sciences). Interested in mathematics, complex systems, and their applications to markets and networks. INMO 2022 qualifier, competitive swimmer and table tennis player, and avid superbike rider.
+
+</div>
 
 ## Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,bash,kotlin,nodejs,express,prisma,mongodb,react,tailwind,sklearn,linux,git,docker,cmake&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,cpp,ts,js,kotlin,bash,sklearn,opencv,nodejs,express,fastapi,react,tailwind,graphql,postgres,mongodb,prisma,docker,kubernetes,aws,git,linux,cmake&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
